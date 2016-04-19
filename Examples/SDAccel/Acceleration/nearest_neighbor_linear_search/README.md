@@ -14,6 +14,7 @@ Achieved performance was measured on an Alpha Data ADM-PCI-7v3 card.
 
 Changelog
 ----------
+4/18/2016 - Added compilation script on IBM SuperVessel Cloud
 1/28/2016 - Initial Release
 
 Compiling the Application
@@ -50,3 +51,4 @@ Kernel code
 Compilation Script
 - Makefile
 - linear_search.tcl
+- linear_search_sv .tcl : Compilation script for IBM SuperVessel Cloud
