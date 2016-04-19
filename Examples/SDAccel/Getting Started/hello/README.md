@@ -9,7 +9,8 @@ This example is targeting the Alpha Data ADM-PCIe-7v3 card.
 
 Changelog
 ----------
-2/2/2016 - Initial Release
+4/18/2016 - Added compilation script on IBM SuperVessel Cloud 
+2/2/2016  - Initial Release
 
 Compiling the Application
 ---------------------------
@@ -40,3 +41,4 @@ Kernel code
 
 Compilation Script
 - hello.tcl
+- hello_sv.tcl  : Compilation script for IBM SuperVessel Cloud

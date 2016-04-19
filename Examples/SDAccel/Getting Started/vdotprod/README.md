@@ -5,10 +5,11 @@ This is a simple example of vector dotproduct operation.
 The purpose of this code is to introduce the user to application development
 in SDAccel.
 
-This example is targeting the Alpha Data ADM-PCIe-7v3 card. 
+This example is targeting the Alpha Data ADM-PCIe-7v3 card.
 
 Changelog
 ----------
+4/18/2016 - Added compilation script on IBM SuperVessel Cloud
 1/28/2016 - Initial Release
 
 Compiling the Application
@@ -40,3 +41,4 @@ Kernel code
 
 Compilation Script
 - vdotprod.tcl
+- vdotprod_sv.tcl : Compilation script for IBM SuperVessel Cloud
